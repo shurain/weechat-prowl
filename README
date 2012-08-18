@@ -1,0 +1,9 @@
+Weechat-Prowl
+=============
+
+Prowl alert for weechat highlights.
+
+Dependency
+----------
+
+* [prowlpy](https://github.com/jacobb/prowlpy)
